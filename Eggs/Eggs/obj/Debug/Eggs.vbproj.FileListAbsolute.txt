@@ -1,0 +1,11 @@
+C:\Users\nn137422\Documents\Visual Basic\Eggs\Eggs\bin\Debug\Eggs.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Eggs\Eggs\bin\Debug\Eggs.exe
+C:\Users\nn137422\Documents\Visual Basic\Eggs\Eggs\bin\Debug\Eggs.pdb
+C:\Users\nn137422\Documents\Visual Basic\Eggs\Eggs\bin\Debug\Eggs.xml
+C:\Users\nn137422\Documents\Visual Basic\Eggs\Eggs\obj\Debug\Eggs.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Eggs\Eggs\obj\Debug\Eggs.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Eggs\Eggs\obj\Debug\Eggs.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Eggs\Eggs\obj\Debug\Eggs.exe
+C:\Users\nn137422\Documents\Visual Basic\Eggs\Eggs\obj\Debug\Eggs.xml
+C:\Users\nn137422\Documents\Visual Basic\Eggs\Eggs\obj\Debug\Eggs.pdb
+C:\Users\nn137422\Documents\Visual Basic\Eggs\Eggs\obj\Debug\Eggs.vbprojResolveAssemblyReference.cache
